@@ -1,0 +1,24 @@
+{
+    "cards":[{
+        "img":"S.webp",
+        "name":"phone",
+        "rate":"20000",
+        "offer":"3000",
+        "button":"view"
+    },{
+        "img":"S1.jfif",
+        "name":"iphone",
+        "rate":"70000",
+        "offer":"20000",
+        "button":"view 2"  
+    },
+    {
+        "img":"S2.jpeg",
+        "name":"smart phone",
+        "rate":"30000",
+        "offer":"8000",
+        "button":"view-3"
+    }
+
+    ]
+}
